@@ -127,8 +127,6 @@ df['job_title'].nunique()
 
 ---
 
----
-
 ## 📂 File Structure
 
 ```
@@ -140,3 +138,12 @@ df['job_title'].nunique()
 ---
 
 ## 👤 Author - HARSHAVARDHAN BOMMALATA
+
+**B.Tech CS&T Student | Beginner in Data Analysis**  
+📧 hbommalata@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshavardhan-bommalata-7bb9442b0/)  
+📸 [Instagram](https://www.instagram.com/always_harsha_royal/)
+
+---
+
+**Thank you for viewing this project! Feel free to fork, clone, and learn from it.**
