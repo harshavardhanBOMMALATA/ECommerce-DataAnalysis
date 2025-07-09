@@ -126,3 +126,17 @@ df['job_title'].nunique()
 `.nunique()` tells how many distinct job titles exist in the dataset. Useful for understanding job diversity.
 
 ---
+
+---
+
+## 📂 File Structure
+
+```
+📦 ecommerce-salary-analysis
+ ┣ 📓 ECommerceDataAnalysis-checkpoint.ipynb
+ ┗ 📄 README.md
+```
+
+---
+
+## 👤 Author - HARSHAVARDHAN BOMMALATA
