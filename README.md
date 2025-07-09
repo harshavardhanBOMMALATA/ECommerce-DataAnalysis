@@ -26,8 +26,6 @@ This notebook demonstrates how to clean, explore, and analyze a dataset from an 
 
 ## 🏗️ Project Structure (Q&A Format)
 
----
-
 ### ❓ Q1: Display the top 10 rows of the dataset
 
 ```python
@@ -124,8 +122,6 @@ df['job_title'].nunique()
 
 ✅ **Explanation**:  
 `.nunique()` tells how many distinct job titles exist in the dataset. Useful for understanding job diversity.
-
----
 
 ---
 
