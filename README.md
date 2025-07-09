@@ -127,6 +127,40 @@ df['job_title'].nunique()
 
 ---
 
+---
+
+## ✅ Summary & Learnings
+
+- Learned how to import and inspect CSV data using `pandas`
+- Explored dataset shape, structure, and metadata
+- Detected and handled missing values
+- Dropped unnecessary columns to clean the data
+- Identified frequently occurring records and unique entries
+- Gained confidence with basic exploratory data analysis (EDA)
+
+---
+
+## 💻 How to Use
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/ecommerce-salary-analysis.git
+   ```
+
+2. **Navigate to the folder**
+   ```bash
+   cd ecommerce-salary-analysis
+   ```
+
+3. **Open the notebook**
+   ```bash
+   jupyter notebook ECommerceDataAnalysis-checkpoint.ipynb
+   ```
+
+4. **Run cells one by one and follow the explanations**
+
+---
+
 ## 📂 File Structure
 
 ```
